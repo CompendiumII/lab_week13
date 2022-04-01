@@ -1,0 +1,24 @@
+/* font-family: 'Chakra Petch', sans-serif; */
+
+*{
+    font-family: 'Chakra Petch';
+    color: #23689B;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: #F1C5C5;
+}
+
+p {
+    color: #2C2A4A;
+}
+
+button {
+    background-color: #F4D19B;
+    font-size: 14px;
+    color: #2C2A4A;
+}
